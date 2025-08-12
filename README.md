@@ -29,3 +29,5 @@ Now, I get a message that brings me back to something sacred and grounding.
 
 It’s simple:
 Wake up → Check WhatsApp → Read Vishnu names → Begin the day with focus and peace.
+
+just schedule it in corntab #0 4 * * * /wwebjs-bot/Core.sh.
