@@ -1,3 +1,7 @@
+
+
+<img width="540" height="2085" alt="image" src="https://github.com/user-attachments/assets/62353f46-ff90-484f-a801-e8d11e4dd556" />
+
 This is a small WhatsApp bot I built for myself — to start my mornings with something peaceful and spiritual instead of random memes or social media.
 
 * What it sends (Every day at 4 AM):
