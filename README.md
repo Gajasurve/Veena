@@ -25,7 +25,7 @@ Just a small way to stay connected with time in the traditional way — like how
 
 *  Why I Made This is 
 I used to wake up and check sad things or re-read old chats and bring grief,  first thing in the morning.
-This messages in the morning help me understand that i am destined for this pain. I am happy that she gets the better part.
+This messages in the morning help me understand that i am destined for this pain. I am happy that you gets the better part.
 
 It’s simple:
 Wake up → Check WhatsApp → Read Vishnu names → Try to survive the day. 
