@@ -32,10 +32,10 @@ def get_today_panchang():
     
     location_section = soup.find("div", {"class": "dpPHeaderLeftWrapper"})
     location = location_section.find_all("div")[-1].text.strip() if location_section else "Unknown Location"
-    
+    #our stars. 
+    #Mo		Chandra				Cp 0°1'32''	4°39'39''	-16°44'34''		Uttarāṣāḍha(21) Su		2	Deva	1 // You were born under this.  Focusing life on Dharma and Artha(Money)
+    #Mo		Chandra				Le 7°2'19''	-4°56'11''	6°34'6''		Maghā(10) Ke		1	Deva	4  // And i am under this.  Focusing on Dharma and Moksha(liberation,mukti)
     # Extract Panchang details (Tithi, Nakshatra, etc.)
-    #Mo		Chandra				Cp 0°1'32''	4°39'39''	-16°44'34''		Uttarāṣāḍha(21) Su		2	Deva	1 // You were born under this. 
-    #Mo		Chandra				Le 7°2'19''	-4°56'11''	6°34'6''		Maghā(10) Ke		3	Deva	3  // And i am under this.  
     panchang_table = soup.find("div", {"class": "dpTableCardWrapper"})
     if panchang_table:
         rows = panchang_table.find_all("div", {"class": "dpTableRow"})
@@ -158,4 +158,4 @@ if __name__ == "__main__":
     
     except Exception as e:
         print(f"Error occurred: {e}")
-#Most of the code was written by everyday eveving talks with jindyal, The abaondon shiva temple, Nagarkot, Nepal. 
+#Most of the code was written at everyday eveving talks with jindyal, The abaondon shiva temple, Nagarkot, Nepal. 
