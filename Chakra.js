@@ -1,3 +1,5 @@
+//For RT. 
+
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 const path = require('path');
@@ -56,4 +58,4 @@ client.on('message_create', async message => {
 });
 
 client.initialize();
-//For RT. 
+//Without You, i dont need even heavens. I accept this hell. For you!
