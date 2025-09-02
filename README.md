@@ -1,3 +1,5 @@
+Add Mobile Number in the Chakra.js to whom you want this to be sent everyday at 4 AM Automatically from your whatsapp.
+
 Use node to run Chakra js. Scan the qr on terminal and whatsapp session stays signedin unless kicked off from mobile device. 
 
 This is a small WhatsApp bot I built for myself — to start my mornings and focusing on surviving the day. 
